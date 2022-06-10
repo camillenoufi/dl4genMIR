@@ -4,9 +4,9 @@
 # Deep Learning for Music Information Retrieval: Generative Models
 <img src="assets/home.jpg" alt="drawing" width="1000"/>
 
-Website for the graduate-level course covering the deep learning theory, literature, and practice applied to digital audio. More specifically, the course covers generative models (including autoencoders).
+Website for the graduate-level Deep Learning for Music Information Retrieval I & II workshops covering the deep learning theory, literature, and practice applied to digital audio. More specifically, the course covers generative models (including autoencoders).
 
-Taught at the National Autonomous University of Mexico [UNAM](https://www.unam.mx/) during the spring semester of 2022 (January 31st - May 27th) by [Iran R. Roman](https://iranroman.github.io).
+Taught August 2022 at the Center for Computer Research in Music and Acoustics [CCRMA](https://ccrma.stanford.edu/)by [Iran R. Roman](https://iranroman.github.io) and [Camille Noufi](http://camillenoufi.com).
 
 ## Course content
 
@@ -24,7 +24,7 @@ Taught at the National Autonomous University of Mexico [UNAM](https://www.unam.m
 
 ## Prerequisites
 
-This is a graduate-level course that assumes knowledge of digital audio signal processing, object-oriented programming (we will work with Python3), differential calculus (chain rule), linear algebra, and basic probability/statistics. To ensure that everybody is on the same page, we will review these concepts as they become relevant to course content. However, if you have never been exposed to these concepts, this course will likely be more challenging that what it has to be.
+This is a graduate-level workshop that assumes knowledge of digital audio signal processing, object-oriented programming (we will work with Python3), differential calculus (chain rule), linear algebra, and basic probability/statistics. To ensure that everybody is on the same page, we will review these concepts as they become relevant to course content. However, if you have never been exposed to these concepts, this course will likely be more challenging that what it has to be.
 
 If you need to review these concepts, checkout the following:
 
@@ -38,18 +38,17 @@ Or make an online search for other materials covering these concepts.
 
 ## Course logistics
 
-The course runs from January 31st to May 27th (2022) and meets Wednesdays from 5PM to 8PM ([Eastern Standard Time](https://www.timeanddate.com/time/zones/et)) over Zoom. 
+The course runs from August 8th to 19th (2022) and meets daily from 9AM to 3PM ([Pacific Daylight Time](https://www.timeanddate.com/time/zones/pt)) in person at CCRMA and over Zoom. 
 
-If you are not affiliated with UNAM and are interested in joining the course (it's free, by the way), please email the instructor. The course will welcome all students who can meet the course prerequisites.
+Please [register](https://www.eventbrite.com/e/music-information-retrieval-introduction-deep-learning-i-ii-tickets-319062092307) for the course if you would like to attend either in-person or online. The course will welcome all students who can meet the course prerequisites. All course materials are in English (since all relevant literature in this field of research is in Enligh). Strong knowledge of English reading, writting, and speaking is assumed.
 
-All course materials are in English (since all relevant literature in this field of research is in Enligh). However, the lectures will be delivered in Spanish (remember the class is taught at [UNAM](https://www.unam.mx/)). Some guest lectures will be delivered in English. Strong knowledge of English reading, writting, and speaking is assumed.
-
-Submit your homework by sending an email to the instructor with ALL the relevant files.
+<!-- Submit your homework by sending an email to the instructor with ALL the relevant files. -->
 
 ## Getting help
 
-Post your questions on the course sub-reddit [deeplearningaudio](https://reddit.com/r/deeplearningaudio).
+<!-- Post your questions on the course Discourse [deeplearningaudio](https://reddit.com/r/deeplearningaudio). -->
+You may also find a past version of the course's sub-reddit [deeplearningaudio](https://reddit.com/r/deeplearningaudio) helpful for particular questions relating to this workshop.
 
 ___
 
-&copy; [Iran R. Roman](https://iranroman.github.io) 2022
+&copy; [Iran R. Roman](https://iranroman.github.io) & Camille Noufi 2022
