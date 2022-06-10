@@ -1,4 +1,4 @@
-| [Homepage](https://camillenoufi.github.io/dl4genMIR/) | [Course content](https://camillenoufi.github.io/dl4genMIR/#course-content) | 
+| [Homepage](index.md) | [Course content](#course-content) | 
 
 <!-- [Spanish](https://dl4genaudio-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
 
