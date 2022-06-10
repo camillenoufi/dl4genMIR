@@ -7,7 +7,7 @@
 
 Website for the graduate-level Deep Learning for Music Information Retrieval I & II workshops covering the deep learning theory, literature, and practice applied to digital audio. More specifically, the course covers generative models (including autoencoders).
 
-Taught at the Center for Computer Research in Music and Acoustics [CCRMA](https://ccrma.stanford.edu/) by [Iran R. Roman](https://iranroman.github.io) and [Camille Noufi](http://camillenoufi.com) as part of the [CCRMA Summer 2022 Workshop Series](https://ccrma.stanford.edu/workshops).
+Taught at the Center for Computer Research in Music and Acoustics ([CCRMA](https://ccrma.stanford.edu/)), Stanford University by [Iran R. Roman](https://iranroman.github.io) and [Camille Noufi](http://camillenoufi.com) as part of the [CCRMA Summer 2022 Workshop Series](https://ccrma.stanford.edu/workshops).
 
 ## Course content
 
