@@ -1,4 +1,5 @@
 | [Homepage](https://dl4genaudio.github.io) | [Course content](https://dl4genaudio.github.io/#course-content) | 
+
 <!-- [Spanish](https://dl4genaudio-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US) | -->
 
 # Deep Learning for Music Information Retrieval: Generative Models
@@ -40,7 +41,7 @@ Or make an online search for other materials covering these concepts.
 
 The course runs from August 8th to 19th (2022) and meets daily from 9AM to 3PM ([Pacific Daylight Time](https://www.timeanddate.com/time/zones/pt)) in person at CCRMA and over Zoom. 
 
-Please [register](https://www.eventbrite.com/e/music-information-retrieval-introduction-deep-learning-i-ii-tickets-319062092307) for the course if you would like to attend either in-person or online. The course will welcome all students who can meet the course prerequisites. All course materials are in English (since all relevant literature in this field of research is in Enligh). Strong knowledge of English reading, writting, and speaking is assumed.
+Please [register](https://www.eventbrite.com/e/music-information-retrieval-introduction-deep-learning-i-ii-tickets-319062092307) for the course if you would like to attend either in-person or online. The course will welcome all students who can meet the course prerequisites. All course materials are in English thus strong knowledge of English reading, writting, and speaking is assumed.
 
 <!-- Submit your homework by sending an email to the instructor with ALL the relevant files. -->
 
